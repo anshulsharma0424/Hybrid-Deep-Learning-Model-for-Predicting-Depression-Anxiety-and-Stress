@@ -19,3 +19,26 @@ The dataset used is the DASS-42 questionnaire, which consists of 42 self-reporte
 
 **Note:** The original responses are on a 1 to 4 scale, converted to a 0 to 3 scale for preprocessing.
 
+### 2. Implementation Steps
+#### 2.1. Data Preprocessing
+- Convert categorical responses into numerical format.
+- Handle missing values and perform normalization.
+
+#### 2.2. Feature Selection
+- Use SHAP and RFE to identify the most influential features.
+
+#### 2.3. Class Imbalance Handling
+- Apply SMOTE to balance minority and majority classes.
+
+#### 2.4. Model Training
+- Train a Deep Neural Network (DNN) to generate embeddings.
+- Pass embeddings to an XGBoost classifier for final predictions.
+
+#### 2.5. Hyperparameter Tuning
+- Optimize DNN and XGBoost hyperparameters using Grid Search & Bayesian Optimization.
+
+#### 2.6. Model Evaluation
+- Evaluate performance using Accuracy, Precision, Recall, and F1-score.
+
+#### 2.7. Explainability with LIME
+- Use LIME to explain individual predictions and model behavior.
