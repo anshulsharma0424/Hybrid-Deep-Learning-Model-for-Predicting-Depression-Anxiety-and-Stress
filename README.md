@@ -59,9 +59,7 @@ The dataset used is the DASS-42 questionnaire, which consists of 42 self-reporte
 ### Performance Metrics
 ![image](https://github.com/user-attachments/assets/8e4c487b-5f6f-4176-abb3-3f772854aaf8)
 
-##### Contributors
-
-Anshul Sharma – Research, Development
+##### Contributor : Anshul Sharma
 
 
 
