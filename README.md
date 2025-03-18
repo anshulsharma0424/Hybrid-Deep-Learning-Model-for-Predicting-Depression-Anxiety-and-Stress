@@ -42,3 +42,35 @@ The dataset used is the DASS-42 questionnaire, which consists of 42 self-reporte
 
 #### 2.7. Explainability with LIME
 - Use LIME to explain individual predictions and model behavior.
+
+### 3. Model Architecture
+
+![Final Architecture Diagram](https://github.com/user-attachments/assets/aca1a88f-2c29-41e4-8ff0-0eb49b85b72d)
+
+**Deep Neural Network (DNN):**
+- **Input Layer:**  Selected features
+- **Hidden Layers:** 3 fully connected layers with ReLU activation
+- **Output Layer:** Feature embeddings
+
+**XGBoost Classifier:**
+- Takes DNN embeddings as input
+- Predicts the class label (Depression, Anxiety, Stress levels)
+
+### Performance Metrics
+![image](https://github.com/user-attachments/assets/8e4c487b-5f6f-4176-abb3-3f772854aaf8)
+
+##### Contributors
+
+Anshul Sharma – Research, Development
+
+
+
+
+
+
+
+
+
+
+
+
