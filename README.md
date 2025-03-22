@@ -58,16 +58,20 @@ The dataset used is the DASS-42 questionnaire, which consists of 42 self-reporte
 
 ### Performance Metrics
 1. Accuracy
-   ![image](https://github.com/user-attachments/assets/d853cf8a-4a98-4537-bb4f-05c09b3371b7)
+
+![image](https://github.com/user-attachments/assets/d853cf8a-4a98-4537-bb4f-05c09b3371b7)
 
 3. Precision
-   ![image](https://github.com/user-attachments/assets/cfb98812-f25e-459d-842b-fa8b9084aa93)
+
+![image](https://github.com/user-attachments/assets/cfb98812-f25e-459d-842b-fa8b9084aa93)
 
 3. Recall
-   ![image](https://github.com/user-attachments/assets/be31201a-ccce-4216-8e3b-aa7a5cff40ee)
 
-4. F1 Score
-   ![image](https://github.com/user-attachments/assets/0b54b368-cc39-443d-9506-d6aa8e47f7f0)
+![image](https://github.com/user-attachments/assets/be31201a-ccce-4216-8e3b-aa7a5cff40ee)
+
+5. F1 Score
+
+![image](https://github.com/user-attachments/assets/0b54b368-cc39-443d-9506-d6aa8e47f7f0)
 
 
 
