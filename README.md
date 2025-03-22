@@ -57,7 +57,19 @@ The dataset used is the DASS-42 questionnaire, which consists of 42 self-reporte
 - Predicts the class label (Depression, Anxiety, Stress levels)
 
 ### Performance Metrics
-![image](https://github.com/user-attachments/assets/8e4c487b-5f6f-4176-abb3-3f772854aaf8)
+1. Accuracy
+   ![image](https://github.com/user-attachments/assets/d853cf8a-4a98-4537-bb4f-05c09b3371b7)
+
+3. Precision
+   ![image](https://github.com/user-attachments/assets/cfb98812-f25e-459d-842b-fa8b9084aa93)
+
+3. Recall
+   ![image](https://github.com/user-attachments/assets/be31201a-ccce-4216-8e3b-aa7a5cff40ee)
+
+4. F1 Score
+   ![image](https://github.com/user-attachments/assets/0b54b368-cc39-443d-9506-d6aa8e47f7f0)
+
+
 
 ##### Contributor : Anshul Sharma
 
